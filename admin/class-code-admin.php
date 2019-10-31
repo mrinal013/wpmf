@@ -79,7 +79,7 @@ class Code_Admin {
 
 	public function mf_menu_callback() {
 		?>
-		<h1>Hello allly</h1>
+		<h1>Hello mrinal</h1>
 		<?php
 	}
 
